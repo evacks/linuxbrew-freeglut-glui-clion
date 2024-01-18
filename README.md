@@ -7,3 +7,5 @@ A scratchpad-like repository on setting up CLion with homebrew stuff on linux fo
 3. Get CLion going
 4. Modify CMakeTXT using that template
 5. Set up CLion to point to the homebrew-installed cmake and g++
+
+Source: https://stackoverflow.com/questions/43200926/how-to-add-opengl-library-in-clion
